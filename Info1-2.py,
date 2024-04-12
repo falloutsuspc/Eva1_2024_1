@@ -1,0 +1,9 @@
+print("bienvenido")
+
+firstName = input("Cual es tu nombre y apellido? ")
+asignature = input("Cual es su asignatura? ")
+location = input("Cual es tu sede? ")
+age = input("Cual es tu edad? ")
+semester = input("Cual es tu semestre?")
+
+print("su nombre es" +firstName ,"tu asignatura es " +asignature , "tu locacion de sede es" +location ,"tu edad es" +age ,"y tu semestre es" +semester)
